@@ -1,0 +1,13 @@
+{
+	"EntitiesNamespace": "SampleApp.Domain.Entities",
+	"IDbContext": {
+		"Name": "ISampleAppDbContext",
+		"Namespace": "SampleApp.Application",
+		"Path": "../../SampleApp.Application/Common/Interfaces"
+	},
+	"DbContext": {
+		"Name": "SampleAppDbContext",
+		"Namespace": "SampleApp.Infrastructure.Persistence",
+		"Path": "../../SampleApp.Infrastructure/Persistence"
+	}
+}
